@@ -1,0 +1,2 @@
+# Fuel-Efficiency-Prediction
+This project uses a public dataset from Kaggle to build a model that can predict the miles per gallon(MPG) which is the primary measurement of a cars efficiency.  It contains the following columns: mpg, cylinders, horsepower, weight, acceleration, model year and origin.  Origin is a categorical value from 1 to 3 believed to represent certain regions with 1 being USA, 2 is Europe and 3 is Asia.
